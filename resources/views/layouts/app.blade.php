@@ -19,9 +19,9 @@
 
   <div class="container">
     <div class="row">
-      <div class="col-2">
+      <!-- <div class="col-2">
         @include('inc.aside')
-      </div>
+      </div> -->
       <div class="col-8">
         @yield('content')
       </div>
